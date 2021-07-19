@@ -1,3 +1,4 @@
-Git is a version control system.
-Git is free software.Git is a distributed version control system.
-Git is free software distributed under the GPL.
+新的风暴即将出现，我们怎么能停滞不前。
+人生得意须尽欢，莫使金樽空对月
+君不见黄河之水天上来，奔流到海不复回。
+君不见高堂明镜悲白发，朝如青丝暮成雪。
